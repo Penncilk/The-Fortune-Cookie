@@ -1,0 +1,4 @@
+-cp source
+-main Fortune
+-python bin/Fortune.py
+
